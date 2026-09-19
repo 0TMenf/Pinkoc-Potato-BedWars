@@ -1,0 +1,466 @@
+[20:44:14] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:44:16] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[20:44:18] [Worker-Main-2/INFO]: Loaded 7 recipes
+[20:44:25] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[20:44:25] [Server thread/INFO]: Loading properties
+[20:44:25] [Server thread/INFO]: This server is running Paper version git-Paper-411 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 6625db3 on ver/1.17.1)
+[20:44:26] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:44:26] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:44:26] [Server thread/INFO]: Default game type: SURVIVAL
+[20:44:26] [Server thread/INFO]: Generating keypair
+[20:44:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:44:28] [Server thread/INFO]: Using default channel type
+[20:44:28] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[20:44:28] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[20:44:30] [Server thread/ERROR]: Ambiguous plugin name `Vault' for files `plugins\Vault.jar' and `plugins\Vault-1.7.3.jar' in `plugins'
+[20:44:34] [Server thread/INFO]: [TrChat-2.4.3] º”‘ÿ“¿¿µ org.jetbrains.kotlin:kotlin-stdlib:2.2.20
+[20:44:34] [Server thread/INFO]: [TrChat-2.4.3] º”‘ÿ“¿¿µ org.jetbrains.kotlin:kotlin-stdlib-jdk8:2.2.20
+[20:44:38] [Server thread/INFO]: [TrChat-2.4.3] º”‘ÿ“¿¿µ org.apache.commons:commons-lang3:3.5
+[20:44:39] [Server thread/INFO]: [TrChat-2.4.3] º”‘ÿ“¿¿µ org.slf4j:slf4j-api:2.0.8
+[20:44:39] [Server thread/INFO]: [TrChat-2.4.3] º”‘ÿ“¿¿µ com.zaxxer:HikariCP:4.0.3
+[20:44:39] [Server thread/INFO]: [TrChat-2.4.3] º”‘ÿ“¿¿µ org.openjdk.nashorn:nashorn-core:15.4
+[20:44:39] [Server thread/INFO]: [TrChat-2.4.3] º”‘ÿ“¿¿µ org.apache.commons:commons-jexl3:3.2.1
+[20:44:39] [Server thread/INFO]: [TrChat-2.4.3] º”‘ÿ“¿¿µ redis.clients:jedis:4.2.3
+[20:44:39] [Server thread/INFO]: [TrChat-2.4.3] º”‘ÿ“¿¿µ org.apache.commons:commons-pool2:2.11.1
+[20:44:39] [Server thread/INFO]: [TrChat-2.4.3] º”‘ÿ“¿¿µ org.json:json:20211205
+[20:44:39] [Server thread/INFO]: [TrChat-2.4.3] º”‘ÿ“¿¿µ org.yaml:snakeyaml:2.6
+[20:44:40] [Server thread/INFO]: [TrChat-2.4.3] º”‘ÿ“¿¿µ com.typesafe:config:1.4.3
+[20:44:40] [Server thread/INFO]: [TrChat-2.4.3] º”‘ÿ“¿¿µ com.electronwill.night-config:core:3.6.7
+[20:44:40] [Server thread/INFO]: [TrChat-2.4.3] º”‘ÿ“¿¿µ com.electronwill.night-config:toml:3.6.7
+[20:44:40] [Server thread/INFO]: [TrChat-2.4.3] º”‘ÿ“¿¿µ com.electronwill.night-config:json:3.6.7
+[20:44:40] [Server thread/INFO]: [TrChat-2.4.3] º”‘ÿ“¿¿µ com.electronwill.night-config:hocon:3.6.7
+[20:44:43] [Server thread/ERROR]: [STDERR] [org.bukkit.craftbukkit.v1_17_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[20:44:52] [Server thread/WARN]: Legacy plugin 233BedWars v1.1.9c does not specify an api-version.
+[20:44:52] [Server thread/INFO]: [BKCommonLib] Loading BKCommonLib v2.0.2
+[20:45:02] [Server thread/WARN]: [BKCommonLib] Loaded class org.apache.commons.lang3.mutable.MutableBoolean from TrChat v2.4.3 which is not a depend, softdepend or loadbefore of this plugin.
+[20:45:13] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.12.3
+[20:45:18] [Server thread/INFO]: [FriendsAPIForPartyAndFriends] Loading FriendsAPIForPartyAndFriends v1.6.3-RELEASE
+[20:45:18] [Server thread/INFO]: [Parties] Loading Parties v3.2.18
+[20:45:18] [Server thread/INFO]: [Parties] Loading libraries of Parties v3.2.18, this may take a while
+[20:45:19] [Server thread/INFO]: [Parties] Verifying checksum for jar-relocator
+[20:45:19] [Server thread/INFO]: [Parties] Verifying checksum for asm
+[20:45:19] [Server thread/INFO]: [Parties] Verifying checksum for asm-commons
+[20:45:19] [Server thread/INFO]: [Parties] Verifying checksum for gson
+[20:45:19] [Server thread/INFO]: [Parties] Verifying checksum for jdbi3-core
+[20:45:19] [Server thread/INFO]: [Parties] Verifying checksum for geantyref
+[20:45:19] [Server thread/INFO]: [Parties] Verifying checksum for caffeine
+[20:45:19] [Server thread/INFO]: [Parties] Verifying checksum for jdbi3-stringtemplate4
+[20:45:19] [Server thread/INFO]: [Parties] Verifying checksum for ST4
+[20:45:19] [Server thread/INFO]: [Parties] Verifying checksum for antlr-runtime
+[20:45:20] [Server thread/INFO]: [Parties] Verifying checksum for jdbi3-sqlobject
+[20:45:20] [Server thread/INFO]: [Parties] Verifying checksum for slf4j-api
+[20:45:20] [Server thread/INFO]: [Parties] Verifying checksum for slf4j-simple
+[20:45:20] [Server thread/INFO]: [Parties] Verifying checksum for HikariCP
+[20:45:20] [Server thread/INFO]: [Parties] Verifying checksum for mariadb-java-client
+[20:45:20] [Server thread/INFO]: [Parties] Verifying checksum for mysql-connector-j
+[20:45:20] [Server thread/INFO]: [Parties] Verifying checksum for postgresql
+[20:45:20] [Server thread/INFO]: [Parties] Verifying checksum for h2
+[20:45:20] [Server thread/INFO]: [Parties] Verifying checksum for exp4j
+[20:45:20] [Server thread/INFO]: [Spigot-Party-API-PAF] Loading Spigot-Party-API-PAF v1.0.8-RELEASE
+[20:45:20] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v5.12.0-SNAPSHOT
+[20:45:20] [Server thread/INFO]: [ViaVersion] ViaVersion 5.12.0-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
+[20:45:22] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[20:45:22] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[20:45:24] [Server thread/INFO]: [Ip2region] Loading Ip2region v1.1.2
+[20:45:24] [Server thread/INFO]: [floodgate] Loading floodgate v2.2.5-SNAPSHOT (b140-8780fa4)
+[20:45:26] [Server thread/INFO]: [floodgate] ∆Ù∂Ø Floodgate£¨∫ƒ ±1,401ms
+[20:45:26] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v5.12.0-SNAPSHOT
+[20:45:26] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.5.53
+[20:45:27] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[20:45:27] [Server thread/INFO]: [voicechat] Loading voicechat v2.6.21
+[20:45:27] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.12.5
+[20:45:27] [Server thread/INFO]: [OldCombatMechanics] Loading OldCombatMechanics v2.6.0
+[20:45:28] [Server thread/INFO]: [packetevents] Loading packetevents...
+[20:45:37] [Server thread/INFO]: [packetevents] Loaded packetevents v2.13.0 for OldCombatMechanics
+[20:45:37] [Server thread/INFO]: [TrChat] Loading TrChat v2.4.3
+[20:45:38] [Server thread/INFO]: 
+[20:45:38] [Server thread/INFO]: ’˝‘⁄º”‘ÿ TrChat... 1.17.1-R0.1-SNAPSHOT
+[20:45:38] [Server thread/INFO]: 
+[20:45:38] [Server thread/INFO]: [My_Worlds] Loading My_Worlds v2.0.0
+[20:45:40] [Server thread/WARN]: [My_Worlds] World: ashore no longer exists, data will be wiped when disabling!
+[20:45:40] [Server thread/WARN]: [My_Worlds] World: boletum no longer exists, data will be wiped when disabling!
+[20:45:40] [Server thread/WARN]: [My_Worlds] World: rooftop no longer exists, data will be wiped when disabling!
+[20:45:40] [Server thread/INFO]: [Matrix] Loading Matrix v7.16.2
+[20:45:41] [Server thread/INFO]: [Matrix] Checking Environment...
+[20:45:41] [Server thread/INFO]: [Matrix] Passed all environment checks
+[20:45:41] [Server thread/INFO]: [packetevents] Loading packetevents v2.13.0
+[20:45:41] [Server thread/INFO]: [packetevents] Loading packetevents...
+[20:45:44] [Server thread/INFO]: [packetevents] Loaded packetevents v2.13.0
+[20:45:44] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[20:45:44] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.30-SNAPSHOT (build 2600)
+[20:45:44] [Server thread/INFO]: [Vulcan] Loading Vulcan v2.9.7.22
+[20:45:44] [Server thread/INFO]: [BedWars1058] Loading BedWars1058 v25.5-SNAPSHOT
+[20:45:44] [Server thread/INFO]: [BedWars1058] Loading support for Spigot/ Paper v1_17_R1
+[20:45:45] [Server thread/INFO]: [233BedWars] Loading 233BedWars v1.1.9c
+[20:45:45] [Server thread/INFO]: [TAB] Loading TAB v6.1.0
+[20:45:45] [Server thread/INFO]: [BedWars1058-TeamSelector] Loading BedWars1058-TeamSelector v0.7
+[20:45:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:45:45] [Server thread/INFO]: [BKCommonLib] Enabling BKCommonLib v2.0.2
+[20:45:45] [Server thread/INFO]: [BKCommonLib] BKCommonLib is running on Paper (git-Paper-411) : v1_17_R1 (Minecraft 1.17.1)
+[20:45:48] [Server thread/INFO]: [BKCommonLib.Network] Now using a PlayerConnection hook to provide Packet Listener and Monitor support
+[20:45:50] [Server thread/INFO]: [BKCommonLib] 60% of the time, it works all the time.
+[20:45:50] [Server thread/INFO]: [BKCommonLib] BKCommonLib version 2.0.2 (build: 2034) enabled! (4.882s)
+[20:45:50] [Server thread/INFO]: [FriendsAPIForPartyAndFriends] Enabling FriendsAPIForPartyAndFriends v1.6.3-RELEASE
+[20:45:50] [Server thread/ERROR]: [STDERR] [com.mysql.jdbc.Driver] Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
+[20:45:51] [Server thread/WARN]: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+[20:45:51] [Server thread/WARN]: 
+[20:45:51] [Server thread/WARN]: The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[20:45:51] [Server thread/WARN]: 	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+[20:45:51] [Server thread/WARN]: 	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+[20:45:51] [Server thread/WARN]: 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+[20:45:51] [Server thread/WARN]: 	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+[20:45:51] [Server thread/WARN]: 	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+[20:45:51] [Server thread/WARN]: 	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+[20:45:51] [Server thread/WARN]: 	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:681)
+[20:45:51] [Server thread/WARN]: 	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:190)
+[20:45:51] [Server thread/WARN]: 	at Friends-API-For-PAF-1.6.3-RELEASE.jar//de.simonsator.partyandfriends.spigot.communication.sql.SQLCommunication.createConnection(SQLCommunication.java:98)
+[20:45:51] [Server thread/WARN]: 	at Friends-API-For-PAF-1.6.3-RELEASE.jar//de.simonsator.partyandfriends.spigot.communication.sql.SQLCommunication.<init>(SQLCommunication.java:41)
+[20:45:51] [Server thread/WARN]: 	at Friends-API-For-PAF-1.6.3-RELEASE.jar//de.simonsator.partyandfriends.spigot.mysql.MySQL.<init>(MySQL.java:18)
+[20:45:51] [Server thread/WARN]: 	at Friends-API-For-PAF-1.6.3-RELEASE.jar//de.simonsator.partyandfriends.spigot.pafplayers.manager.PAFPlayerManagerMySQL.<init>(PAFPlayerManagerMySQL.java:17)
+[20:45:51] [Server thread/WARN]: 	at Friends-API-For-PAF-1.6.3-RELEASE.jar//de.simonsator.partyandfriends.spigot.main.Main.onEnable(Main.java:44)
+[20:45:51] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264)
+[20:45:51] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:370)
+[20:45:51] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:500)
+[20:45:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.enablePlugin(CraftServer.java:561)
+[20:45:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.enablePlugins(CraftServer.java:475)
+[20:45:51] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:288)
+[20:45:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1220)
+[20:45:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:319)
+[20:45:51] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[20:45:51] [Server thread/WARN]: Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+[20:45:51] [Server thread/WARN]: 
+[20:45:51] [Server thread/WARN]: The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[20:45:51] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[20:45:51] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+[20:45:51] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:45:51] [Server thread/WARN]: 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+[20:45:51] [Server thread/WARN]: 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+[20:45:51] [Server thread/WARN]: 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+[20:45:51] [Server thread/WARN]: 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+[20:45:51] [Server thread/WARN]: 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+[20:45:51] [Server thread/WARN]: 	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+[20:45:51] [Server thread/WARN]: 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+[20:45:51] [Server thread/WARN]: 	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+[20:45:51] [Server thread/WARN]: 	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+[20:45:51] [Server thread/WARN]: 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+[20:45:51] [Server thread/WARN]: 	... 19 more
+[20:45:51] [Server thread/WARN]: Caused by: java.net.ConnectException: Connection refused: connect
+[20:45:51] [Server thread/WARN]: 	at java.base/sun.nio.ch.Net.connect0(Native Method)
+[20:45:51] [Server thread/WARN]: 	at java.base/sun.nio.ch.Net.connect(Net.java:591)
+[20:45:51] [Server thread/WARN]: 	at java.base/sun.nio.ch.Net.connect(Net.java:580)
+[20:45:51] [Server thread/WARN]: 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:593)
+[20:45:51] [Server thread/WARN]: 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+[20:45:51] [Server thread/WARN]: 	at java.base/java.net.Socket.connect(Socket.java:639)
+[20:45:51] [Server thread/WARN]: 	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+[20:45:51] [Server thread/WARN]: 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+[20:45:51] [Server thread/WARN]: 	... 22 more
+[20:45:51] [Server thread/INFO]: [FriendsAPIForPartyAndFriends] [STDOUT] Friends API for Spigot for Party And Friends for Proxy was either not able to connect to the MySQL database or to login into the MySQL database. Please correct your MySQL data in the config.yml. If you need further help contact Simonsator via Discord (@Simonsator#5834), PM him (https://www.spigotmc.org/conversations/add?to=simonsator ) or write an email to him (support@simonsator.de). Please don't forget to send him the latest.log file. Also please don't write a bad review without giving him 24 hours time to fix the problem.
+[20:45:51] [Server thread/WARN]: Nag author(s): '[Simonsator]' of 'FriendsAPIForPartyAndFriends' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[20:45:51] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.53
+[20:45:52] [Server thread/INFO]:         __    
+[20:45:52] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.53
+[20:45:52] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[20:45:52] [Server thread/INFO]: 
+[20:45:53] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[20:45:54] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[20:45:54] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[20:45:54] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 3662ms)
+[20:45:54] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.12.5
+[20:45:56] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.17.1[32;1m.[0;39m
+[20:45:57] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mFloodgate skin listener registered[0;39m
+[20:45:57] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[20:45:57] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.12.5]
+[20:45:57] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mPlaceholderAPI expansion registered![0;39m
+[20:45:58] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mPlease update your Java runtime to at least Java 21 (your version is 17).[0;39m
+[20:45:58] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mAt some point in the future, SkinsRestorer will no longer be compatible with this version of Java.[0;39m
+[20:45:58] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[20:45:58] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[20:45:58] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[20:45:58] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[20:45:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:45:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:45:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:45:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:45:58] [Server thread/INFO]: Preparing level "world"
+[20:46:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:46:03] [Server thread/INFO]: Time elapsed: 841 ms
+[20:46:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:46:03] [Server thread/INFO]: Time elapsed: 77 ms
+[20:46:03] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.12.3
+[20:46:04] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[20:46:04] [Server thread/INFO]: [Parties] Enabling Parties v3.2.18
+[20:46:04] [Server thread/INFO]: [Parties] Initializing Parties v3.2.18
+[20:46:10] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: parties [3.2.18]
+[20:46:10] [Server thread/INFO]: [Parties] Hooked into PlaceholderAPI
+[20:46:10] [Server thread/INFO]: [Parties] Parties v3.2.18 enabled
+[20:46:10] [Server thread/INFO]: [Spigot-Party-API-PAF] Enabling Spigot-Party-API-PAF v1.0.8-RELEASE
+[20:46:10] [Server thread/INFO]: [FriendsAPIForPartyAndFriends] [STDOUT] The plugin has not been setup yet. Please visit https://github.com/Simonsator/Party-API-For-Spigot/wiki/Installation to learn how to setup the plugin.
+[20:46:10] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.12.0-SNAPSHOT
+[20:46:10] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
+[20:46:10] [Server thread/WARN]: [ViaVersion] Please update your Java runtime to at least Java 21 (your version is 17).
+[20:46:10] [Server thread/WARN]: [ViaVersion] At some point in the future, ViaVersion will no longer be compatible with this version of Java.
+[20:46:10] [Server thread/INFO]: [BKCommonLib] ViaVersion detected, will use it to detect player game versions
+[20:46:10] [Server thread/INFO]: [Ip2region] Enabling Ip2region v1.1.2
+[20:46:10] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: ip2region [1.1.2]
+[20:46:10] [Server thread/WARN]: [Ip2region] Loaded class com.alessiodp.parties.libs.h2.Driver from Parties v3.2.18 which is not a depend, softdepend or loadbefore of this plugin.
+[20:46:11] [Server thread/INFO]: [Ip2region] “—≥…π¶‘ÿ»Î∑˛ŒÒ∆˜£°
+[20:46:11] [Server thread/INFO]: [Ip2region] Author:handy  π”√Œƒµµ: https://ricedoc.handyplus.cn/wiki/ip2region/README/
+[20:46:11] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b140-8780fa4)
+[20:46:12] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.12.0-SNAPSHOT
+[20:46:12] [Server thread/INFO]: [voicechat] Enabling voicechat v2.6.21
+[20:46:12] [Server thread/INFO]: [voicechat] Initializing compatibility for version 1.17.1-R0.1
+[20:46:12] [Server thread/WARN]: [voicechat] Vanish plugin integration is not supported
+[20:46:12] [Server thread/INFO]: [voicechat] Compatibility version 20
+[20:46:12] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[20:46:12] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: voicechat [2.6.21]
+[20:46:12] [Server thread/INFO]: [voicechat] Successfully registered PlaceholderAPI expansion
+[20:46:12] [Server thread/INFO]: [voicechat] Successfully added ViaVersion mappings
+[20:46:12] [Server thread/INFO]: [OldCombatMechanics] Enabling OldCombatMechanics v2.6.0
+[20:46:13] [packetevents-update-check-thread/INFO]: [packetevents] Checking for updates, please wait...
+[20:46:13] [Server thread/WARN]: [OldCombatMechanics] Attack range data-component API not available; module disabled. Required Paper data-component classes or methods were not detected. (ClassNotFoundException: io.papermc.paper.datacomponent.DataComponentTypes)
+[20:46:13] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: ocm [2.6.0]
+[20:46:14] [Server thread/INFO]: [OldCombatMechanics] OldCombatMechanics v2.6.0 (commit 9a28315) has been enabled
+[20:46:14] [Server thread/INFO]: [TrChat] Enabling TrChat v2.4.3
+[20:46:14] [Server thread/WARN]: [TrChat]  ¬º˛ io.papermc.paper.event.player.PlayerOpenSignEvent Œ¥ƒ‹’“µΩ£¨ø… π”√ @Ghost πÿ±’¥ÀæØ∏Ê°£
+[20:46:14] [Server thread/WARN]: [TrChat] Loaded class com.alessiodp.parties.libs.h2.Driver from Parties v3.2.18 which is not a depend, softdepend or loadbefore of this plugin.
+[20:46:14] [packetevents-update-check-thread/INFO]: [packetevents] You are running the latest release: 2.13.0
+[20:46:15] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: trchat [2.4.3]
+[20:46:15] [Server thread/INFO]: [TrChat] µ±«∞ŒﬁøÁ∑˛÷ß≥÷.
+[20:46:15] [Server thread/INFO]: [TrChat] ¡ƒÃÏ | ≥…π¶‘ÿ»Î 12 ∏ˆ¡ƒÃÏπ¶ƒ‹... [63 Ms]
+[20:46:15] [Server thread/INFO]: [TrChat] π˝¬À∆˜ | “—‘ÿ»Î±æµÿ√Ù∏–¥ ø‚◊‹º∆ 3 ∏ˆ.
+[20:46:16] [Server thread/INFO]: [TrChat] ¡ƒÃÏ | ≥…π¶‘ÿ»Î 4 ∏ˆ¡ƒÃÏ∆µµ¿... [670 Ms]
+[20:46:16] [Server thread/INFO]: [TrChat] –≈œ¢ | º”‘ÿÕÍ±œ. TrChat v2.4.3 œ÷“—∆Ù”√, æ¥«Î π”√.
+[20:46:16] [Server thread/INFO]: [My_Worlds] Enabling My_Worlds v2.0.0
+[20:46:17] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: myworlds [2.0.0]
+[20:46:17] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: mw [2.0.0]
+[20:46:17] [Server thread/INFO]: [My_Worlds] PlaceholderAPI integration enabled
+[20:46:17] [Server thread/INFO]: [My_Worlds] My_Worlds version 2.0.0 (build: 367) enabled! (1.144s)
+[20:46:17] [Server thread/INFO]: [Matrix] Enabling Matrix v7.16.2
+[20:46:17] [Server thread/INFO]: *   __  __       _        _
+[20:46:17] [Server thread/INFO]: *  |  \/  |     | |      (_)
+[20:46:17] [Server thread/INFO]: *  | \  / | __ _| |_ _ __ ___  __
+[20:46:17] [Server thread/INFO]: *  | |\/| |/ _` | __| '__| \ \/ /
+[20:46:17] [Server thread/INFO]: *  | |  | | (_| | |_| |  | |>  <
+[20:46:17] [Server thread/INFO]: *  |_|  |_|\__,_|\__|_|  |_/_/\_\
+[20:46:17] [Server thread/INFO]: * 
+[20:46:17] [Server thread/INFO]: * Cracked by LuckerCracker
+[20:46:17] [Server thread/INFO]: * Matrix AntiCheat v7.16.2 | git-Paper-411 (MC: 1.17.1)
+[20:46:18] [Server thread/INFO]: [Matrix] Server Version: V1_17_R1 (#17)
+[20:46:18] [Server thread/INFO]: [Matrix] Hooked with PlaceholderAPI
+[20:46:19] [Server thread/INFO]: [Matrix] Loaded 0 global placeholders
+[20:46:19] [Server thread/INFO]: [Matrix] Enabled 14 checks, Disabled 1 checks
+[20:46:19] [Server thread/WARN]: [Matrix] You have enabled the `hitbox.strict_mode` option, which is experimental and may cause false positives, please use it carefully!
+[20:46:19] [Server thread/INFO]: [Matrix] Loaded all configuration files
+[20:46:19] [Server thread/INFO]: [Matrix] (Compatibility) Hooked with Floodgate
+[20:46:19] [Server thread/WARN]: [Matrix] Vulcan is detected, Matrix might not work properly with it.
+[20:46:19] [Server thread/INFO]: [Matrix] Scanning outdated log files....
+[20:46:19] [Server thread/INFO]: [Matrix] Deleted 0 outdated log files!
+[20:46:20] [Server thread/INFO]: [Matrix] Welcome to Matrix!
+[20:46:32] [Server thread/INFO]: [packetevents] Enabling packetevents v2.13.0
+[20:46:32] [packetevents-update-check-thread/INFO]: [packetevents] Checking for updates, please wait...
+[20:46:32] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.30-SNAPSHOT (build 2600)
+[20:46:32] [packetevents-update-check-thread/INFO]: [packetevents] You are running the latest release: 2.13.0
+[20:46:32] [Server thread/INFO]: [Citizens] Loaded economy handling via Vault.
+[20:46:32] [Server thread/INFO]: [Vulcan] Enabling Vulcan v2.9.7.22
+[20:46:35] [Server thread/INFO]: [Vulcan] Starting Vulcan... Server Version: 1.17.1 detected!
+[20:46:35] [Server thread/INFO]: [Vulcan] Floodgate 2.0 found. Enabling hook!
+[20:46:35] [Server thread/INFO]: [Vulcan] BStats enabled!
+[20:46:35] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: Vulcan [2.9.7.22]
+[20:46:35] [Server thread/INFO]: [Vulcan] PlaceholderAPI found. Enabling hook!
+[20:46:35] [Server thread/INFO]: [BedWars1058] Enabling BedWars1058 v25.5-SNAPSHOT
+[20:46:35] [Server thread/INFO]: [BedWars1058] Using internal world restore system.
+[20:46:35] [Server thread/INFO]: [BedWars1058] Arena ashore was added to the enable queue.
+[20:46:35] [Server thread/INFO]: [BedWars1058] Loading arena: ashore
+[20:46:35] [Server thread/INFO]: [BedWars1058] Arena boletum was added to the enable queue.
+[20:46:35] [Server thread/INFO]: [BedWars1058] Arena rooftop was added to the enable queue.
+[20:46:36] [Server thread/INFO]: [BedWars1058] Hooked into PlaceholderAPI support!
+[20:46:36] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: bw1058 [25.5-SNAPSHOT]
+[20:46:37] [Server thread/WARN]: Scoreboard tab header-footer refresh interval is set to: 10
+[20:46:37] [Server thread/WARN]: It is not recommended to use a value under 20 ticks.
+[20:46:37] [Server thread/WARN]: If you expect performance issues please increase its timer.
+[20:46:37] [Server thread/INFO]: [BedWars1058] Initializing SidebarLib by andrei1058
+[20:46:37] [Server thread/INFO]: [233BedWars] Enabling 233BedWars v1.1.9c*
+[20:46:37] [Server thread/INFO]: -------- 233BedWars by SerendipityR --------
+[20:46:37] [Server thread/INFO]:  > µ±«∞NMS∞Ê±æ: v1_17_R1
+[20:46:37] [Server thread/INFO]:  > ≤Âº˛◊∞‘ÿ÷–...
+[20:46:37] [Server thread/INFO]:  > Hooking BedWars1058...
+[20:46:37] [Server thread/INFO]:  > Hooked BedWars1058 in interface com.andrei1058.bedwars.api.BedWars
+[20:46:37] [Server thread/INFO]:  > Hooking PlaceholderAPI...
+[20:46:37] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: 233bw [1.1.9c]
+[20:46:37] [Server thread/INFO]:  > Hooked PlaceholderAPI.
+[20:46:37] [Server thread/INFO]:  > ’˝‘⁄º”‘ÿ≈‰÷√...
+[20:46:37] [Server thread/INFO]:  > ’˝‘⁄◊¢≤·√¸¡Ó...
+[20:46:37] [Server thread/INFO]:  > ’˝‘⁄◊¢≤· ¬º˛...
+[20:46:38] [Server thread/INFO]:  > ’˝‘⁄º§ªÓƒ£øÈ...
+[20:46:38] [Server thread/WARN]: [BedWars1058] FIREWORK_CHARGE is not a valid v1_17_R1 material!
+[20:46:38] [Server thread/WARN]: [BedWars1058] FIREWORK_CHARGE is not a valid v1_17_R1 material!
+[20:46:38] [Server thread/WARN]: [BedWars1058] WOOL is not a valid v1_17_R1 material!
+[20:46:38] [Server thread/WARN]: [BedWars1058] WOOL is not a valid v1_17_R1 material!
+[20:46:38] [Server thread/INFO]:  > ≤Âº˛“—∆Ù”√£°
+[20:46:38] [Server thread/INFO]: --------------------------------------------
+[20:46:38] [Server thread/INFO]: [TAB] Enabling TAB v6.1.0
+[20:46:38] [Server thread/INFO]: [TAB] Found NMS implementation: me.neznamy.tab.platforms.bukkit.v1_17_R1.NMSImplementationProvider
+[20:46:38] [Server thread/INFO]: [TAB] Enabled in 560ms
+[20:46:38] [Server thread/INFO]: [BedWars1058-TeamSelector] Enabling BedWars1058-TeamSelector v0.7
+[20:46:38] [Server thread/INFO]: [BedWars1058-TeamSelector] Hook into BedWars1058!
+[20:46:39] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[20:46:39] [Server thread/INFO]: Running delayed init tasks
+[20:46:39] [Server thread/WARN]: [Parties] Loaded class net.luckperms.api.LuckPermsProvider from LuckPerms v5.5.53 which is not a depend, softdepend or loadbefore of this plugin.
+[20:46:39] [Server thread/INFO]: [Parties] Hooked into LuckPerms
+[20:46:39] [Server thread/INFO]: [voicechat] Loading plugins
+[20:46:39] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[20:46:39] [Server thread/INFO]: [voicechat] Initializing plugins
+[20:46:39] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[20:46:39] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[20:46:39] [Craft Scheduler Thread - 18 - Vault/INFO]: [Vault] Checking for Updates ... 
+[20:46:39] [Server thread/INFO]: [BedWars1058] Hooked into vault chat support!
+[20:46:39] [Server thread/INFO]: [BedWars1058] Vault found, but no economy provider!
+[20:46:39] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[20:46:39] [Craft Scheduler Thread - 9 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[20:46:40] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[20:46:40] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +===================+[0;39m
+[20:46:40] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer   |[0;39m
+[20:46:40] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |-------------------|[0;39m
+[20:46:40] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m  |[0;39m
+[20:46:40] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +===================+[0;39m
+[20:46:40] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[20:46:40] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.12.5[0;39m
+[20:46:40] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m98b9488[0;39m
+[20:46:40] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[20:46:40] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[20:46:40] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[20:46:40] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer or receive priority support? Become a supporter: [33;1mhttps://skinsrestorer.net/pricing[0;39m
+[20:46:40] [Craft Scheduler Thread - 10 - Ip2region/INFO]: [Ip2region] | ◊Ó–¬∞Ê±æ: 1.1.7 µ±«∞∞Ê±æ: 1.1.2 µ„ª˜¥À¥¶≤Èø¥∏¸–¬ƒ⁄»› |
+
+[20:46:44] [Craft Scheduler Thread - 11 - TrChat/INFO]: [TrChat] π˝¬À∆˜ | ≥…π¶¥”‘∆∂À∏¸–¬√Ù∏–¥ ª„◊‹º∆ 311 ∏ˆ. [https://raw.githubusercontent.com/Yurinann/Filter-Thesaurus-Cloud/main/database.json - 2023/7/31 20:00:00]
+[20:46:45] [Craft Scheduler Thread - 18 - Vault/INFO]: [Vault] No new version available
+[20:46:45] [Server thread/INFO]: [Citizens] “—‘ÿ»Î 0 ∏ˆNPC.
+[20:46:45] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.9]
+[20:46:45] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
+[20:46:45] [Server thread/INFO]: 2 placeholder hook(s) registered!
+[20:46:45] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
+[20:46:45] [Server thread/INFO]: Done (140.033s)! For help, type "help"
+[20:46:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6136ms or 122 ticks behind
+[20:46:45] [Server thread/INFO]: Timings Reset
+[20:46:47] [Server thread/INFO]: [BedWars1058] Hook into Citizens support. /bw npc
+[20:46:47] [Server thread/ERROR]: [BedWars1058] Invalid npc id: 0
+[20:46:47] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: friendsapi [1.0]
+[20:46:47] [Server thread/INFO]: [BedWars1058] Hook into Parties (by AlessioDP) support!
+[20:46:47] [Server thread/INFO]: Registering /party command..
+[20:46:48] [Craft Scheduler Thread - 12 - Matrix/INFO]: [Matrix] Matrix AntiCheat has been fully initialized.
+[20:46:48] [Server thread/INFO]: Preparing start region for dimension minecraft:ashore
+[20:46:48] [Craft Scheduler Thread - 7 - TrChat/INFO]: --------------------------------------------------
+[20:46:48] [Craft Scheduler Thread - 7 - TrChat/INFO]: ? TrChat ∏¸–¬Õ®÷™ 2.4.3 ? 2.5.2
+[20:46:48] [Craft Scheduler Thread - 7 - TrChat/INFO]: ? ƒ⁄»›: 
+[20:46:48] [Craft Scheduler Thread - 7 - TrChat/INFO]: ## What's Changed
+- ÷ß≥÷ Velocity 4
+- ÷ß≥÷ PostgreSQL  ˝æ›¥Ê¥¢
+- –¬‘ˆ special-chars.yml ≈‰÷√Œƒº˛, Ω‚æˆ◊ ‘¥∞¸÷–≤ …´Emoji‘⁄¡ƒÃÏ÷–±‰…´µƒŒ Ã‚
+- –¬‘ˆ Options.Disabled-Worlds ≈‰÷√, ‘⁄÷∏∂® ¿ΩÁΩ˚”√¡ƒÃÏº‡Ã˝∆˜
+- ÕÍ…∆∑¥À¢∆¡π¶ƒ‹ (œÍº˚–¬≈‰÷√Œƒº˛)
+- –¬‘ˆ–ﬁ∏ƒ∆‰À˚ÕÊº“∆µµ¿µƒ÷∏¡Ó (#562)
+- –ﬁ∏¥@π¶ƒ‹: ÷ª”–’Ê’˝ ’µΩ∏√œ˚œ¢«“±ª@µƒÕÊº“≤≈ª· ’µΩÃ· æ
+- –ﬁ∏¥ #564 (Ω≈±æ exit ∂Ø◊˜œ÷‘⁄ª·’˝»∑»°œ˚∑¢ÀÕ, ≤ª‘Ÿµº÷¬◊Ë»˚)
+- –ﬁ∏¥ #565 (URL µ„ª˜ ¬º˛: »•≥˝—’…´¥˙¬Î”Î∂‡”‡ø’∏Ò, Œﬁ–ß¡¥Ω”≤ª‘Ÿ…˙≥…µ„ª˜ ¬º˛, ”≈ªØ∆•≈‰’˝‘Ú)
+
+## New Contributors
+* @XyLuoDYS made their first contribution in https://github.com/TrPlugins/TrChat/pull/568
+
+**Full Changelog**: https://github.com/TrPlugins/TrChat/compare/v2.4.9...v2.5.2
+[20:46:48] [Craft Scheduler Thread - 7 - TrChat/INFO]: ? «∞Õ˘ Github œ¬‘ÿ: https://github.com/TrPlugins/TrChat/releases
+[20:46:48] [Craft Scheduler Thread - 7 - TrChat/INFO]: --------------------------------------------------
+[20:46:48] [Server thread/INFO]: Time elapsed: 167 ms
+[20:46:48] [Server thread/INFO]: [OldCombatMechanics] Loaded configured world ashore
+[20:46:48] [Server thread/INFO]: [BedWars1058] Loading arena: boletum
+[20:46:48] [Server thread/WARN]: [BedWars1058] Using TeamSelectorAssigner team assigner on arena: ashore
+[20:46:48] [Server thread/INFO]: [BedWars1058] Load done: ashore
+[20:46:51] [Server thread/INFO]: [BedWars1058] This server is running in MULTIARENA with auto-scale false
+[20:46:53] [Server thread/INFO]: Preparing start region for dimension minecraft:boletum
+[20:46:53] [Server thread/INFO]: Time elapsed: 87 ms
+[20:46:53] [Server thread/INFO]: [OldCombatMechanics] Loaded configured world boletum
+[20:46:53] [Server thread/INFO]: [BedWars1058] Loading arena: rooftop
+[20:46:53] [Server thread/WARN]: [BedWars1058] Using TeamSelectorAssigner team assigner on arena: boletum
+[20:46:53] [Server thread/INFO]: [BedWars1058] Load done: boletum
+[20:46:53] [Craft Scheduler Thread - 7 - BedWars1058/WARN]: java.util.zip.ZipException: zip END header not found
+[20:46:53] [Craft Scheduler Thread - 7 - BedWars1058/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1717)
+[20:46:53] [Craft Scheduler Thread - 7 - BedWars1058/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1725)
+[20:46:53] [Craft Scheduler Thread - 7 - BedWars1058/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1563)
+[20:46:53] [Craft Scheduler Thread - 7 - BedWars1058/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1526)
+[20:46:53] [Craft Scheduler Thread - 7 - BedWars1058/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:762)
+[20:46:53] [Craft Scheduler Thread - 7 - BedWars1058/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:263)
+[20:46:53] [Craft Scheduler Thread - 7 - BedWars1058/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:191)
+[20:46:53] [Craft Scheduler Thread - 7 - BedWars1058/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:205)
+[20:46:53] [Craft Scheduler Thread - 7 - BedWars1058/WARN]: 	at bedwars-plugin-25.5-SNAPSHOT.jar//com.andrei1058.bedwars.api.util.ZipFileUtil.unzipFileIntoDirectory(ZipFileUtil.java:44)
+[20:46:53] [Craft Scheduler Thread - 7 - BedWars1058/WARN]: 	at bedwars-plugin-25.5-SNAPSHOT.jar//com.andrei1058.bedwars.maprestore.internal.InternalAdapter.lambda$onEnable$2(InternalAdapter.java:75)
+[20:46:53] [Craft Scheduler Thread - 7 - BedWars1058/WARN]: 	at org.bukkit.craftbukkit.v1_17_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[20:46:53] [Craft Scheduler Thread - 7 - BedWars1058/WARN]: 	at org.bukkit.craftbukkit.v1_17_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+[20:46:53] [Craft Scheduler Thread - 7 - BedWars1058/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+[20:46:53] [Craft Scheduler Thread - 7 - BedWars1058/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[20:46:53] [Craft Scheduler Thread - 7 - BedWars1058/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[20:46:53] [Craft Scheduler Thread - 7 - BedWars1058/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[20:46:54] [Server thread/INFO]: Preparing start region for dimension minecraft:rooftop
+[20:46:54] [Server thread/INFO]: Time elapsed: 45 ms
+[20:46:54] [Server thread/INFO]: [OldCombatMechanics] Loaded configured world rooftop
+[20:46:54] [Server thread/WARN]: [BedWars1058] Using TeamSelectorAssigner team assigner on arena: rooftop
+[20:46:54] [Server thread/INFO]: [BedWars1058] Load done: rooftop
+[20:47:16] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@661d19e1[id=cba5de71-1f2e-3fc8-b48e-cc96f1b06389,name=_Menf_,properties={},legacy=false] (/127.0.0.1:2853): Took too long to log in
+[20:47:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@661d19e1[id=cba5de71-1f2e-3fc8-b48e-cc96f1b06389,name=_Menf_,properties={},legacy=false] (/127.0.0.1:2853) lost connection: Took too long to log in
+[20:47:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@2600c7af[id=cba5de71-1f2e-3fc8-b48e-cc96f1b06389,name=_Menf_,properties={},legacy=false] (/127.0.0.1:2931) lost connection: Disconnected
+[20:47:49] [User Authenticator #1/INFO]: UUID of player _Menf_ is cba5de71-1f2e-3fc8-b48e-cc96f1b06389
+[20:48:20] [User Authenticator #2/INFO]: UUID of player _Menf_ is cba5de71-1f2e-3fc8-b48e-cc96f1b06389
+[20:49:42] [Server thread/INFO]: Stopping the server
+[20:49:42] [Server thread/INFO]: Stopping server
+[20:49:42] [Server thread/INFO]: [BedWars1058-TeamSelector] Disabling BedWars1058-TeamSelector v0.7
+[20:49:42] [Server thread/INFO]: [TAB] Disabling TAB v6.1.0
+[20:49:42] [Server thread/INFO]: [TAB] Disabled in 7ms
+[20:49:42] [Server thread/INFO]: [233BedWars] Disabling 233BedWars v1.1.9c
+[20:49:42] [Server thread/INFO]: -------- 233BedWars by SerendipityR --------
+[20:49:42] [Server thread/INFO]:  > ≤Âº˛“—±ª–∂‘ÿ°£
+[20:49:42] [Server thread/INFO]: --------------------------------------------
+[20:49:42] [Server thread/INFO]: [BedWars1058] Disabling BedWars1058 v25.5-SNAPSHOT
+[20:49:42] [Server thread/WARN]: [BedWars1058] Disabling arena: ashore
+[20:49:42] [Server thread/INFO]: [OldCombatMechanics] Unloaded configured world ashore
+[20:49:42] [Server thread/WARN]: [BedWars1058] Disabling arena: boletum
+[20:49:42] [Server thread/INFO]: [OldCombatMechanics] Unloaded configured world boletum
+[20:49:42] [Server thread/WARN]: [BedWars1058] Disabling arena: rooftop
+[20:49:42] [Server thread/INFO]: [OldCombatMechanics] Unloaded configured world rooftop
+[20:49:42] [Server thread/INFO]: [Vulcan] Disabling Vulcan v2.9.7.22
+[20:49:42] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.30-SNAPSHOT (build 2600)
+[20:49:42] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[20:49:42] [Server thread/INFO]: [packetevents] Disabling packetevents v2.13.0
+[20:49:42] [Server thread/INFO]: [Matrix] Disabling Matrix v7.16.2
+[20:49:42] [Server thread/INFO]: [Matrix] Disabled Matrix AntiCheat.
+[20:49:43] [Server thread/INFO]: [My_Worlds] Disabling My_Worlds v2.0.0
+[20:49:43] [Server thread/INFO]: [My_Worlds] My_Worlds disabled!
+[20:49:43] [Server thread/INFO]: [TrChat] Disabling TrChat v2.4.3
+[20:49:44] [Server thread/INFO]: [OldCombatMechanics] Disabling OldCombatMechanics v2.6.0
+[20:49:44] [Server thread/INFO]: [OldCombatMechanics] OldCombatMechanics v2.6.0 has been disabled
+[20:49:44] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.12.5
+[20:49:44] [Server thread/INFO]: [voicechat] Disabling voicechat v2.6.21
+[20:49:44] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.53
+[20:49:44] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[20:49:44] [Server thread/INFO]: [LuckPerms] Closing storage...
+[20:49:45] [Server thread/INFO]: [LuckPerms] Goodbye!
+[20:49:45] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.12.0-SNAPSHOT
+[20:49:45] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.5-SNAPSHOT (b140-8780fa4)
+[20:49:45] [Server thread/INFO]: [Ip2region] Disabling Ip2region v1.1.2
+[20:49:45] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.12.0-SNAPSHOT
+[20:49:45] [Server thread/INFO]: [BKCommonLib] ViaVersion was disabled, will no longer use it to detect player game versions
+[20:49:45] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[20:49:45] [Server thread/INFO]: [Spigot-Party-API-PAF] Disabling Spigot-Party-API-PAF v1.0.8-RELEASE
+[20:49:45] [Server thread/INFO]: [Parties] Disabling Parties v3.2.18
+[20:49:45] [Server thread/INFO]: [Parties] Disabling Parties
+[20:49:45] [Server thread/INFO]: [Parties] Parties disabled
+[20:49:45] [Server thread/INFO]: [FriendsAPIForPartyAndFriends] Disabling FriendsAPIForPartyAndFriends v1.6.3-RELEASE
+[20:49:45] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.12.3
+[20:49:45] [Server thread/INFO]: [BKCommonLib] Disabling BKCommonLib v2.0.2
+[20:49:46] [Server thread/INFO]: Saving players
+[20:49:46] [Server thread/INFO]: Saving worlds
+[20:49:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:49:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[20:49:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:49:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:49:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:49:52] [Server thread/INFO]: Flushing Chunk IO
+[20:49:52] [Server thread/INFO]: Closing Thread Pool
+[20:49:52] [Server thread/INFO]: Closing Server

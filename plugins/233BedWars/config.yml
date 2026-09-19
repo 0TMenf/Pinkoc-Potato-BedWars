@@ -1,0 +1,27 @@
+serverID: ""
+
+addons:
+  # 计分板编辑器
+  ScoreBoardEditor: false
+  # 队伍名称主题
+  TeamNameThemes: false
+  # 详细战斗指示
+  CombatDetails: false
+  # 快捷指令
+  FastCommands: false
+  # 大佬警告
+  DalaoWarning: false
+  # 平衡性调整
+  BalancedAdjustments: false
+  # 资源点全息图设置
+  GeneratorEditor: false
+  # 游戏内ActionBar设置
+  ActionBar: false
+  # 商店物品拓展
+  ShopItemAddon: true
+  # 经验模式
+  XpResMode: true
+  # 全域游戏事件
+  GlobalEvents: true
+  # 游戏开始动画
+  GameStartAnimation: false

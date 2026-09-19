@@ -1,0 +1,9 @@
+# ==== PVPOneDotEight Configs ====
+
+checkUpdate: true
+specialEffects: false
+normalizeHackedItems: false
+noCooldown: true
+autoSetShield: true
+controlEntitiesInArena: false
+protectArena: false
